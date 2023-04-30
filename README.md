@@ -47,7 +47,7 @@ $$ p_i = \frac{1}{1+\exp(-\eta_i)}.$$
 Analogamente, alguns autores escrevem
 $$p_i=\frac{\exp(\eta_i)}{1+\exp(\eta_i)}.$$
 
-Neste trabalho foi utilizada a regressão logística para modelar a probabilidade de sobrevivência dos tripulantes a partir de suas idades, sexo, classe. A análise de diagnóstico foi realizada com envelopes simulados dos resíduos e seu comportamento, alavancagem, DFFIT, distância de Cook, teste RESET (para validar a função de ligação) e pseudo R2.
+Neste trabalho foi utilizada a regressão logística para modelar a probabilidade de sobrevivência dos tripulantes a partir de suas idades, sexo, classe. A modelagem dos dados do Titanic envolveu a utilização de técnicas de análise exploratória, limpeza de dados, transformação e criação de novas variáveis. A análise de diagnóstico foi realizada com envelopes simulados dos resíduos e seu comportamento, alavancagem, DFFIT, distância de Cook, teste RESET (para validar a função de ligação) e pseudo R2. Para mais detalhes, acesse o arquivo abaixo:
 
 [Arquivo pdf - Modelagem MLG Titanic](TitanicRMD.pdf)
 
