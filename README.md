@@ -109,3 +109,8 @@ $$
 $$
 
 isto é, a chance do evento ocorrer entre indivíduos que diferem em uma unidade na variável $x_1$ é igual a $\exp(\widehat{\beta}_1)$. Generalizando, para quantificar a alteração da chance de ocorrência de um evento após $c$ incrementos unitários, utiliza-se $\exp(c\,\widehat{\beta}_1)$.
+
+De acordo com o modelo estimado, um gráfico é plotado para apresentar a variação da probabilidade de sobrevivência dos indivíduos conforme alteramos a idade de homens e mulheres na segunda classe.
+<p align="center">
+  <img src="survival_ageXsex.png" alt="Figura1" width="500">
+</p>
