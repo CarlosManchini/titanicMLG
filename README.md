@@ -49,7 +49,7 @@ $$p_i=\frac{\exp(\eta_i)}{1+\exp(\eta_i)}.$$
 
 Neste trabalho foi utilizada a regressão logística para modelar a probabilidade de sobrevivência dos tripulantes a partir de suas idades, sexo, classe. A análise de diagnóstico foi realizada com envelopes simulados dos resíduos e seu comportamento, alavancagem, DFFIT, distância de Cook, teste RESET (para validar a função de ligação) e pseudo R2.
 
-[Modelagem MLG Titanic](TitanicRMD.pdf)
+[Arquivo pdf - Modelagem MLG Titanic](TitanicRMD.pdf)
 
 Uma função para aplicação do modelo final é apresentada abaixo.
 ```
