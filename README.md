@@ -16,7 +16,7 @@ $$
 A média e a variância de $y_i$ são, respectivamente, 
 
 $$
-\boldsymbol{E}(y_i)=p_i,\quad\quad
+\boldsymbol{E}(y_i)=p_i,\quad
 \text{Var}(y_i) = p_i\,(1-p_i).
 $$
 
@@ -100,7 +100,7 @@ E se eu estivesse na terceira classe?
 > 
 > E sua chance de sucesso é de 0.195 vezes menor! 
 
-Calculando a razão de chances (explicada abaixo)  $\frac{1.201}{0.163}=7,4$ conclui-se que a chance de eu sobreviver na primeira classe é 7,4 vezes maior do que se eu estivesse na terceira classe.
+Calculando a razão de chances (explicada abaixo)  $\frac{1.201}{0.195}=6,1$ conclui-se: a chance de eu sobreviver na primeira classe é **6** vezes maior do que na terceira classe.
 
 Uma vantagem de ajustar uma regressão logística caracteriza-se pela interpretabilidade dos parâmetros baseada na razão de chances de probabilidades (\textit{Odds Ratio} - OR). É uma medida importante para mensurar a força de associação entre as variáveis ao comparar a chance de sucesso de uma determinada característica $p_i^*$ em relação a outra $p_i$. Obtemos OR, aplicando a função exponencial diretamente nos coeficientes do modelo, como segue, 
 
