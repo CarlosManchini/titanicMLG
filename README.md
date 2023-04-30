@@ -1,6 +1,8 @@
 # Titanic 
 
-A regressão logística objetiva modelar o comportamento da
+Os dados do Titanic são amplamente utilizados em análises de dados e estudos de modelagem. O conjunto de dados inclui informações sobre 891 passageiros do navio, incluindo idade, sexo, classe social, taxa de sobrevivência e outras variáveis.
+
+A regressão logística objetiva modelar o comportamento de uma
 variável binária condicionada a variáveis explicativas através de uma estrutura regressiva que
 permite estimar a probabilidade de ocorrência do evento de interesse. Esse modelo classifica-se
 como um caso particular dos MLGs sendo que a distribuição da variável de interesse (binomial)
