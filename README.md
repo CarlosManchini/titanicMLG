@@ -52,7 +52,7 @@ Neste trabalho foi utilizada a regressão logística para modelar a probabilidad
 [Arquivo pdf - Modelagem MLG Titanic](TitanicRMD.pdf)
 
 Uma função para aplicação do modelo final é apresentada abaixo.
-```
+``` r
 survive<- function(Sexo, Idade, Classe)
 {  
   SEX <- Sexo # Feminino: 1 , Masc:0
