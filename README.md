@@ -35,6 +35,7 @@ relaciona a probabilidade de sucesso com o preditor linear.
 
 
 A regressão logística considera a função de ligação logit, expressa por
+
 $$
 g(p_i) = \log\left( \frac{p_i}{1-p_i} \right). %\eta_i
 $$
