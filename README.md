@@ -1,4 +1,4 @@
-# Titanic 
+# Titanic - Probabilidade de Sobrevivência
 
 Os dados do Titanic são amplamente utilizados em análises de dados e estudos de modelagem. O conjunto de dados inclui informações sobre 891 passageiros do navio, incluindo idade, sexo, classe social, taxa de sobrevivência e outras variáveis.
 
